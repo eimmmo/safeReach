@@ -1,4 +1,4 @@
-# SafeReach 🛡️
+# SafeReach 
 ### AI-Powered System for Real-Time Disaster Information and Relief Resource Matching
 
 > **"The right information ... to the right people ... at the right time"**  
@@ -6,7 +6,21 @@
 
 ---
 
-## 📌 فكرة المشروع ومكوناته (Project Overview)
+## Project Preview
+---
+<p align="center">
+  <img src="images/safereach-map.png" alt="SafeReach Disaster Map" width="400">
+  <img src="images/Algorithms.png" alt="SafeReach Dashboard" width="400">
+</p><p align="center">
+  <img src="images/safereach-ir.png" alt="Information Retrieval Module" width="400">
+  <img src="images/safereach-cv.png" alt="Computer Vision Module" width="400">
+</p><p align="center">
+  <em>SafeReach — AI-Powered Disaster Information & Relief Dashboard</em>
+</p>
+
+---
+
+##  فكرة المشروع ومكوناته (Project Overview)
 
 أثناء الكوارث الطبيعية (السيول، الفيضانات، الزلازل)، يواجه المتضررون وفرق الإنقاذ 4 مشاكل رئيسية:
 1. **انتشار الشائعات والأخبار المضللة على السوشيال ميديا.**
@@ -24,7 +38,7 @@
 
 ---
 
-## 🗂️ هيكل مجلدات المشروع (Directory Structure)
+##  هيكل مجلدات المشروع (Directory Structure)
 
 ```text
 SafeReach/
@@ -48,7 +62,7 @@ SafeReach/
 
 ---
 
-## 🚀 كيفية تشغيل المشروع (How to Run)
+##  كيفية تشغيل المشروع (How to Run)
 
 ### 1. تشغيل موقع الويب التفاعلي (SafeReach Web Dashboard):
 * ببساطة، اضغط دبل كليك على الملف: **`run_safereach.bat`**  
@@ -71,7 +85,7 @@ python core/vision_module.py
 
 
 
-## 🏆 مميزات المشروع أمام لجنة التحكيم:
+##  مميزات المشروع أمام لجنة التحكيم:
 * يغطي مشكلة واقعية تخدم أهداف التنمية المجتمعية والإنسانية.
 * يجمع 3 مناهج في تطبيق واحد حي وشغال.
 * واجهة مستخدم احترافية بالكامل بالخريطة الحية ومحرك البحث وأداة فحص الصور.
